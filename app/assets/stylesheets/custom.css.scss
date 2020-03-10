@@ -75,7 +75,6 @@ footer ul {
 
 }
 
-
 footer ul li {
   float: left;
   margin-left: 15px;
@@ -86,4 +85,13 @@ footer ul li {
   color: #a94442;
   background-color: #f2dede;
   border-color: #ebccd1;
+}
+
+.article-actions {
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
+}
+
+.description {
+  margin-top: 0;
 }
